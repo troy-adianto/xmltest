@@ -1,0 +1,15 @@
+<company>
+    <name>XYZ Corp</name>
+    <employees>
+        <employee>
+            <id>1</id>
+            <name>John Doe</name>
+            <role>Software Engineer</role>
+        </employee>
+        <employee>
+            <id>2</id>
+            <name>Jane Smith</name>
+            <role>Product Manager</role>
+        </employee>
+    </employees>
+</company>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<companies>
+    <company>
+        <name>Acme Corporation</name>
+        <employees>
+            <employee>
+                <name>John Doe</name>
+                <role>Software Engineer</role>
+            </employee>
+            <employee>
+                <name>Jane Smith</name>
+                <role>Product Manager</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Tech Innovations</name>
+        <employees>
+            <employee>
+                <name>Michael Brown</name>
+                <role>Data Scientist</role>
+            </employee>
+            <employee>
+                <name>Amy White</name>
+                <role>UI/UX Designer</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>GreenTech Solutions</name>
+        <employees>
+            <employee>
+                <name>Chris Johnson</name>
+                <role>Product Designer</role>
+            </employee>
+            <employee>
+                <name>Olivia Harris</name>
+                <role>Backend Developer</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Future Electronics</name>
+        <employees>
+            <employee>
+                <name>Liam Miller</name>
+                <role>Hardware Engineer</role>
+            </employee>
+            <employee>
+                <name>Charlotte Lee</name>
+                <role>Quality Assurance</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Big Data Analytics</name>
+        <employees>
+            <employee>
+                <name>Benjamin Scott</name>
+                <role>Big Data Engineer</role>
+            </employee>
+            <employee>
+                <name>Lucas King</name>
+                <role>Data Analyst</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Cloud Computing Inc.</name>
+        <employees>
+            <employee>
+                <name>Jack Thomas</name>
+                <role>Cloud Architect</role>
+            </employee>
+            <employee>
+                <name>Chloe Green</name>
+                <role>DevOps Engineer</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Smart Home Technologies</name>
+        <employees>
+            <employee>
+                <name>David Wilson</name>
+                <role>IoT Specialist</role>
+            </employee>
+            <employee>
+                <name>Emma Anderson</name>
+                <role>Firmware Engineer</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Innovative Robotics</name>
+        <employees>
+            <employee>
+                <name>Henry Adams</name>
+                <role>Robotics Engineer</role>
+            </employee>
+            <employee>
+                <name>Sophia Clark</name>
+                <role>Automation Specialist</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Fintech Solutions</name>
+        <employees>
+            <employee>
+                <name>James Martin</name>
+                <role>Financial Analyst</role>
+            </employee>
+            <employee>
+                <name>Mary Garcia</name>
+                <role>Blockchain Developer</role>
+            </employee>
+        </employees>
+    </company>
+
+    <company>
+        <name>Healthcare Innovations</name>
+        <employees>
+            <employee>
+                <name>David Lee</name>
+                <role>Medical Data Scientist</role>
+            </employee>
+            <employee>
+                <name>Grace Martinez</name>
+                <role>Healthcare Software Developer</role>
+            </employee>
+        </employees>
+    </company>
+</companies>
