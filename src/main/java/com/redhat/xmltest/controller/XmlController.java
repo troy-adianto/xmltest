@@ -31,7 +31,7 @@ public class XmlController {
             List<Company> companies = null;
             // Assuming the XML file is located in the resources directory
             for (int i=0;i<100;i++){
-            String filePath = "src/main/resources/" + fileName + ".xml";
+            String filePath = "/etc/data/" + fileName + ".xml";
             companies = xmlProcessingService.processXml(filePath);
             }
             return companies;  // Return List<Company> instead of single Company
